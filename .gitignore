@@ -1,0 +1,33 @@
+# Coverage reports
+coverage
+
+# API keys and secrets
+.env
+.env.staging
+.env.production
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Editor directories and files
+.vscode/
+.idea/
+.sass-cache/
+*.suo
+*.ntvs*
+*.njsproxy
+*.sln
+*.sw?
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
